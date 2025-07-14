@@ -7,6 +7,10 @@ It has an RC car base that allows it to move around and give people their fortun
 
 After brainstorming for a solid -2 seconds, we decided to make the Fortune shooter because it was a really fun idea and it is probably the best project to ever exist within the confines of GitHub HQ.
 
+## Pictures:
+![Getting Started](./Electrical/Schematics.png)
+
+![Getting Started](./CAD/CAD-Render.png)
 ## BOM
 
 1x Lolin Wemos D1 Mini Pro ESP8862 microcontroller
