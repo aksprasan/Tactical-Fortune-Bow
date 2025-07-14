@@ -10,7 +10,7 @@ After brainstorming for a solid -2 seconds, we decided to make the Fortune shoot
 ## Pictures:
 ![Getting Started](./Electrical/Schematics.png)
 
-![Getting Started](./CAD/CAD-Render.png)
+![Getting Started](./CAD/CADRender.png)
 ## BOM
 
 1x Lolin Wemos D1 Mini Pro ESP8862 microcontroller
