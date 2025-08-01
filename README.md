@@ -16,7 +16,7 @@ https://youtu.be/EfSBJAFXDck
 
 ![Getting Started](./CAD/CADRender.png)
 
-![Getting Started](./OverallPhoto.jpg)
+![Getting Started](./ShooterPhoto.jpeg.heic)
 ## BOM
 
 1x Lolin Wemos D1 Mini Pro ESP8862 microcontroller
