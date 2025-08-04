@@ -19,8 +19,8 @@ https://youtu.be/EfSBJAFXDck
 ![Getting Started](./OverallPhoto.jpg)
 ## BOM
 
-*1x Lolin Wemos D1 Mini Pro ESP8862 microcontroller
-*2x N20 900rpm Motor
+* 1x Lolin Wemos D1 Mini Pro ESP8862 microcontroller
+* 2x N20 900rpm Motor
 *2x MG 996R Servos
 *1x SG 90 Microservo
 *1x Limited edition Spider-Man RC jeep (it's worth a lot, it sells for 12 dollars).
