@@ -21,14 +21,14 @@ https://youtu.be/EfSBJAFXDck
 
 * 1x Lolin Wemos D1 Mini Pro ESP8862 microcontroller
 * 2x N20 900rpm Motor
-*2x MG 996R Servos
-*1x SG 90 Microservo
-*1x Limited edition Spider-Man RC jeep (it's worth a lot, it sells for 12 dollars).
-*1x Breadboard
-*1x 9v Alkaline Battery
-*5x 1.5v Alkaline Battery
-*1x MagSafe Type-C charging bank
-*1x Type-C to Type-C charging cable.
-*As many rubber bands as you can (preferably 10 or more)
-*Lots of wires, headers, and connectors.
-*1x SS8050 Transistor
+* 2x MG 996R Servos
+* 1x SG 90 Microservo
+* 1x Limited edition Spider-Man RC jeep (it's worth a lot, it sells for 12 dollars).
+* 1x Breadboard
+* 1x 9v Alkaline Battery
+* 5x 1.5v Alkaline Battery
+* 1x MagSafe Type-C charging bank
+* 1x Type-C to Type-C charging cable.
+* As many rubber bands as you can (preferably 10 or more)
+* Lots of wires, headers, and connectors.
+* 1x SS8050 Transistor
